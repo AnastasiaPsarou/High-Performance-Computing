@@ -1,0 +1,1 @@
+The goal of this lab was to make the code as efficient as possible with the use of Openmp.
