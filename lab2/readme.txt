@@ -1,1 +1,0 @@
-The goal of this lab was to make a code that implements a simple k-means clustering algorithm as efficient as possible with the use of Openmp.
